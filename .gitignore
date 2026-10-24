@@ -1,0 +1,41 @@
+# Home Assistant secrets
+secrets.yaml
+.storage/
+*.db
+*.db-shm
+*.db-wal
+
+# Environment and credentials
+.env
+*.pem
+*.key
+*.crt
+token
+auth_token
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+home-assistant.log
+
+# Node modules
+node_modules/
+
+# Backups (keep structure, not data)
+backups/*.tar.gz
