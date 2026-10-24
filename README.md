@@ -25,7 +25,7 @@ Smart home and AI automation projects by **MB** — AI Automation Consultant spe
 Each project folder has its own `README.md` with setup instructions. Clone the repo and explore:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-automation-portfolio.git
+git clone https://github.com/Manalb80/ai-automation-portfolio.git
 cd ai-automation-portfolio
 ```
 
@@ -35,5 +35,5 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/YOUR_PROFILE)
+- **GitHub:** [Manalb80](https://github.com/Manalb80)
 - **Email:** Available on request
